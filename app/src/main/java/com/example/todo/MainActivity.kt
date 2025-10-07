@@ -343,7 +343,7 @@ class MainActivity : ComponentActivity() {
             onDismissRequest = onDismiss,
             title = {
                 Text(
-                    text = "Aufgabe löschen?",
+                    text = "Aufgabe bearbeiten",
                     color = Color.White
                 )
             },
